@@ -1,0 +1,3 @@
+0 Oso Panda
+1 Oso Pardo
+2 Oso Polar
